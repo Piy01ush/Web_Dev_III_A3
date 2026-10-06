@@ -1,0 +1,19 @@
+{
+  "name": "inventory-data-management-system",
+  "version": "1.0.0",
+  "description": "Assignment 3 - Inventory and Data Management System",
+  "main": "1.js",
+  "scripts": {
+    "server": "nodemon 1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.10.3",
+    "nodemon": "^3.1.14"
+  }
+}
