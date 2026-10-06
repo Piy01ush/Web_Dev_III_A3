@@ -1,5 +1,3 @@
-// Centralized Error Handling Middleware
-
 const errorMiddleware = (error, req, res, next) => {
   console.log(error);
 
